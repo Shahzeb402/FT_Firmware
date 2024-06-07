@@ -1,6 +1,6 @@
 #include "RSRestManager.h"
 
-const std::string RSRESTManager::BASE_URL("https://rshub-be-bffinst-dev.victoriouscoast-168cad0a.westeurope.azurecontainerapps.io/");
+const std::string RSRESTManager::BASE_URL("https://rshub-be-bffinst-dev.nicewave-a9e9b8ee.westeurope.azurecontainerapps.io/swagger/index.html#/");
 const std::string RSRESTManager::DATA_PUSH_ENDPOINT("Instruments/Send");
 const std::string RSRESTManager::DEVICE_REGISTER_ENDPOINT("Instruments/Verify");
 
